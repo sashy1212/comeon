@@ -6,5 +6,5 @@ setTimeout(function(){
       $("#about").removeClass("animated fadeOut");
       $("#services").removeClass("animated fadeOut");
       $("#portfolio").removeClass("animated fadeOut");
-    },1500);
-},1500); 
+    },1510);
+},1510); 
